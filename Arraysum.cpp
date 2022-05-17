@@ -1,9 +1,4 @@
-//
-//  main.cpp
-//  Array Sum
-//
-//  Created by Aryan Garg on 21/03/22.
-//
+
 
 #include <iostream>
 using namespace std;
