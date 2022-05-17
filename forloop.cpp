@@ -1,7 +1,4 @@
-//  main.cpp
-//  forlloop
-//  Created by Aryan Rawat on 19/03/22.
-//
+
 #include <iostream>
 using namespace std;
 
