@@ -1,18 +1,19 @@
-//
 //  main.cpp
 //  forlloop
-//
 //  Created by Aryan Rawat on 19/03/22.
 //
-
 #include <iostream>
 using namespace std;
 
 int main()
 {
-    int n,i=3,count,num;
+    int n,i=3,count,num,m ;
     cout<<"Enter the number of prime you want=";
     cin>>n;
+    cout<<"Enter M : ";
+    for(int j =0 ; j<M;j++){
+        cout<<j;
+    }
     if(n>=1){
         cout<<"First n prime numbers are: ";
         cout<<"2 ";
@@ -27,6 +28,8 @@ int main()
             count++;
         }
     }
+    
+    
     cout<<endl;
     return 0;
 }
