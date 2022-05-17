@@ -23,7 +23,7 @@ public:
 };
 int main(){
     AddAmount obj;
-    obj.finalamount();
+    obj.finalamount()
     return 0;
 }
 
