@@ -1,9 +1,4 @@
-//
-//  main.cpp
-//  Fibonacci Series
-//
-//  Created by Aryan Garg on 05/04/22.
-//
+
 
 #include <iostream>
 using namespace std;
