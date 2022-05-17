@@ -7,13 +7,8 @@ using namespace std;
 
 int main()
 {
-    int n,i=3,count,num,m ;
+    int n,i=3,count,num;
     cout<<"Enter the number of prime you want=";
-    cin>>n;
-    cout<<"Enter M : ";
-    for(int j =0 ; j<M;j++){
-        cout<<j;
-    }
     if(n>=1){
         cout<<"First n prime numbers are: ";
         cout<<"2 ";
