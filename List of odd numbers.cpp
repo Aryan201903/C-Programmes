@@ -1,4 +1,4 @@
-//Q3)WAP to print the count of odd numbers of inputs in 1D array.
+
 #include <iostream>
 using namespace std;
 
