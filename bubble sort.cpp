@@ -1,6 +1,4 @@
 
-//  main.cpp
-//  Bubble Sort
 //
 //  Created by Aryan Garg on 17/04/22.
 //
