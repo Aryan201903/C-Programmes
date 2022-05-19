@@ -34,4 +34,5 @@ int main()
  t.print();
  r.output();
  return 0;
+ cout<<endl;
 }
